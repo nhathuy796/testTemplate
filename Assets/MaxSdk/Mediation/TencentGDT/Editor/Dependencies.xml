@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <iosPods>
+        <iosPod name="AppLovinMediationTencentGDTAdapter" version="4.14.90.0" />
+    </iosPods>
+</dependencies>
